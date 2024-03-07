@@ -1,4 +1,5 @@
 # odin-recipes
+
 My first ODIN project
 
-A simple web application using only HTML to create a list of common recipes
+A simple web application using only HTML + CSS to create a list of common recipes
